@@ -4,7 +4,7 @@
 
 	<!-- Project Info -->
 	<groupId>PSN_Test_Automation_V1</groupId>
-	<artifactId>Selenium_Java_Automation</artifactId>
+	<artifactId>Selenium_Java_AutomationV1</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
@@ -13,7 +13,7 @@
 		<repository>
 			<id>github-packages</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/PSNaveenRK/PSNTestAutomationFrameWork_MavenPackageV1</url>
+			<url>https://maven.pkg.github.com/PSNaveenRK/PSN_Automatioin_FW_MavenPackage_T1</url>
 		</repository>
 	</distributionManagement>
 
